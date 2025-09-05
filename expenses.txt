@@ -1,0 +1,10 @@
+Food:
+  - 85.5
+  - 72.3
+Transport:
+  - 90.2
+Utilities:
+  - 52.3
+Entertainment:
+  - 78.0
+Other:
